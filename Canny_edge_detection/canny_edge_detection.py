@@ -1,3 +1,5 @@
+# canny edge detection
+
 from collections import deque
 
 import cv2
